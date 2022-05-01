@@ -7,8 +7,8 @@ This version of the stealer only supports **Windows**.
  - Transferring via Discord webhook
  - Steals all stored account's tokens
  - No external Python modules required
- - \[**todo**\] MultiMC support
- - \[**todo**\] Cross-platform support
+ - MultiMC support
+ - Cross-platform support
 
 <br>
 
