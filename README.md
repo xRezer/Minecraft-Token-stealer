@@ -1,6 +1,6 @@
-<h1 align="center">Minecraft Session Token Stealer</h1>
+<h1 align="center">Minecraft Token Stealer</h1>
 
-This version of the stealer only supports **Windows**.
+supports **Windows**.
 
 # Features
  - No local caching
@@ -9,11 +9,3 @@ This version of the stealer only supports **Windows**.
  - No external Python modules required
  - MultiMC support
  - Cross-platform support
-
-<br>
-
-# How to use
- 1. Create a webhook on your Discord server. I recommend creating a new server.
- 2. Change the 'WEBHOOK HERE' variable value to your Discord webhook URL in [token-stealer.py](token-stealer.py)
- 3. *(obfuscate the code or install it as a backdoor in an other script.)*
- 4. Send the script to your victim and make them run it.
