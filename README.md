@@ -1,6 +1,6 @@
 <h1 align="center">Minecraft Token Stealer</h1>
 
-supports **Windows**.
+Supports **Windows**.
 
 # Features
  - No local caching
