@@ -8,4 +8,4 @@ Supports **Windows**.
  - Steals all stored account's tokens
  - No external Python modules required
  - MultiMC support
- - Cross-platform support
+ 
